@@ -1,0 +1,8 @@
+C:\Users\yonatan\OneDrive\שולחן העבודה\Ex_Divers_OPP_17_12_21\OOP_Divers\bin\Debug\Ex_Divers_OPP_17_12_21.exe.config
+C:\Users\yonatan\OneDrive\שולחן העבודה\Ex_Divers_OPP_17_12_21\OOP_Divers\bin\Debug\Ex_Divers_OPP_17_12_21.exe
+C:\Users\yonatan\OneDrive\שולחן העבודה\Ex_Divers_OPP_17_12_21\OOP_Divers\bin\Debug\Ex_Divers_OPP_17_12_21.pdb
+C:\Users\yonatan\OneDrive\שולחן העבודה\Ex_Divers_OPP_17_12_21\OOP_Divers\obj\Debug\Divers.csproj.AssemblyReference.cache
+C:\Users\yonatan\OneDrive\שולחן העבודה\Ex_Divers_OPP_17_12_21\OOP_Divers\obj\Debug\Divers.csproj.SuggestedBindingRedirects.cache
+C:\Users\yonatan\OneDrive\שולחן העבודה\Ex_Divers_OPP_17_12_21\OOP_Divers\obj\Debug\Divers.csproj.CoreCompileInputs.cache
+C:\Users\yonatan\OneDrive\שולחן העבודה\Ex_Divers_OPP_17_12_21\OOP_Divers\obj\Debug\Ex_Divers_OPP_17_12_21.exe
+C:\Users\yonatan\OneDrive\שולחן העבודה\Ex_Divers_OPP_17_12_21\OOP_Divers\obj\Debug\Ex_Divers_OPP_17_12_21.pdb
